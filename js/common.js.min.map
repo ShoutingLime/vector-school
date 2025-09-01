@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["source/js/common.js"],
+  "sourcesContent": ["$(function() {\n\n\t// Custom JS\n\n});\n"],
+  "mappings": ";AAAA,EAAE,WAAW;AAIb,CAAC;",
+  "names": []
+}
