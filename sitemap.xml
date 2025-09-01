@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ShoutingLime.github.io/vector-school/</loc>
+    <loc>https://shoutinglime.github.io/vector-school/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://ShoutingLime.github.io/vector-school/about.html</loc>
+    <loc>https://shoutinglime.github.io/vector-school/about.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ShoutingLime.github.io/vector-school/sitemap.html</loc>
+    <loc>https://shoutinglime.github.io/vector-school/sitemap.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ShoutingLime.github.io/vector-school/404.html</loc>
+    <loc>https://shoutinglime.github.io/vector-school/404.html</loc>
     <priority>0.2</priority>
   </url>
 
   <!-- Styles -->
   <url>
-    <loc>https://ShoutingLime.github.io/vector-school/styles/flat-design.html</loc>
+    <loc>https://shoutinglime.github.io/vector-school/styles/flat-design.html</loc>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ShoutingLime.github.io/vector-school/styles/gradient-mesh.html</loc>
+    <loc>https://shoutinglime.github.io/vector-school/styles/gradient-mesh.html</loc>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ShoutingLime.github.io/vector-school/styles/art-deco.html</loc>
+    <loc>https://shoutinglime.github.io/vector-school/styles/art-deco.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ShoutingLime.github.io/vector-school/styles/clay-style.html</loc>
+    <loc>https://shoutinglime.github.io/vector-school/styles/clay-style.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ShoutingLime.github.io/vector-school/styles/line-art.html</loc>
+    <loc>https://shoutinglime.github.io/vector-school/styles/line-art.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ShoutingLime.github.io/vector-school/styles/isometric.html</loc>
+    <loc>https://shoutinglime.github.io/vector-school/styles/isometric.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ShoutingLime.github.io/vector-school/styles/minimalism.html</loc>
+    <loc>https://shoutinglime.github.io/vector-school/styles/minimalism.html</loc>
     <priority>0.7</priority>
   </url>
 </urlset>

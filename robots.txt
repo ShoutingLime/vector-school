@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Disallow technical pages
+Disallow: /404.html
+
+# Sitemap location
+Sitemap: https://shoutinglime.github.io/vector-school/sitemap.xml
